@@ -12,7 +12,7 @@ $container.innerHTML = `
     <div class="indicator">
       <div class="title">访问 UV</div>
       <div class="measure">
-        <div class="value">2.211</div>
+        <div class="value">2.212</div>
         <div class="unit">亿</div>
       </div>
       <div class="compare">
